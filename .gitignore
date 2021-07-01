@@ -1,1 +1,14 @@
 log/
+*.orig
+simple_BACKUP_2006.html
+simple_BACKUP_2096.html
+simple_BACKUP_2180.html
+simple_BASE_2006.html
+simple_BASE_2096.html
+simple_BASE_2180.html
+simple_LOCAL_2006.html
+simple_LOCAL_2096.html
+simple_LOCAL_2180.html
+simple_REMOTE_2006.html
+simple_REMOTE_2096.html
+simple_REMOTE_2180.html
